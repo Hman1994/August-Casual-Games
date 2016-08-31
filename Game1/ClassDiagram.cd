@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Game1.Game1">
+    <Position X="0.5" Y="0.75" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="Game1.Game1.currentDisplay" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Game1.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAQAEEAAAEgAAwAAIAAAAAgAAQAAAAgBAAAAAABAAKQ=</HashCode>
+      <FileName>Game1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameClassLibrary.FastCharacter">
+    <Position X="11.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="GameClassLibrary.Menu">
+    <Position X="2.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="GameClassLibrary.MenuItem">
+    <Position X="5.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="GameClassLibrary.NormalCharacter">
+    <Position X="9.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="GameClassLibrary.Player">
+    <Position X="3.75" Y="1" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="GameClassLibrary.StrongCharacter">
+    <Position X="7.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="GameClassLibrary.Character">
+    <Position X="9.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="GameClassLibrary.Bullet" Collapsed="true">
+    <Position X="7" Y="1" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="GameClassLibrary.Sprite" Collapsed="true">
+    <Position X="10" Y="1" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
