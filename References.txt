@@ -1,0 +1,22 @@
+List of References:
+
+http://rbwhitaker.wikidot.com/
+http://youtube.com
+https://msdn.microsoft.com/en-us/library/bb200104.aspx
+http://www.xnadevelopment.com/tutorials.shtml
+http://www.riemers.net/
+http://stackoverflow.com/
+Learning XNA 4.0 - O'Reilly Media
+www.tutorialspoint.com/csharp
+http://www.dotnetperls.com/
+
+https://vle.itsligo.ie:
+
+Week 4 - Using a Hub for two player game
+
+Week 2 - signal R Server Hub and Console Client
+
+Christmas 2016 Group Project 
+
+November 2016 Asssessment
+
