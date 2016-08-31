@@ -22,9 +22,7 @@ namespace Game1
 
         float timer;
         int timecounter;
-
-
-    
+  
         string clientID;
         Color playerColor = Color.Green;
         Color enemyColor = Color.Red;
@@ -181,7 +179,6 @@ namespace Game1
                     if (timer >= 1.0F) timer = 0F;
 
                   
-
                     foreach (var item in Collectables)
                     {
                         if (player.CollisiionDetection(item.Rectangle))
@@ -251,7 +248,7 @@ namespace Game1
 
         protected override void Draw(GameTime gameTime)
         {
-            GraphicsDevice.Clear(Color.CornflowerBlue);
+            GraphicsDevice.Clear(Color.Gray);
 
             if (currentState == currentDisplay.Selection)
                
