@@ -23,6 +23,7 @@ namespace Game1
         float timer;
         int timecounter;
 
+
     
         string clientID;
         Color playerColor = Color.Green;
@@ -344,6 +345,7 @@ namespace Game1
                 spriteBatch.DrawString(message, "You", namePos + player._position, playerColor, 0, message.MeasureString("You") / 2, 1, SpriteEffects.None, 0);
                 spriteBatch.DrawString(message, "Enemy", namePos + Enemy._position, enemyColor, 0, message.MeasureString("Enemy") / 2, 1, SpriteEffects.None, 0);
                 spriteBatch.End();
+
             }
 
             #endregion

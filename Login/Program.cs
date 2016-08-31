@@ -15,7 +15,12 @@ namespace Login
             Console.WriteLine("Please enter your username ");
             input = Console.ReadLine();
 
-            if(input != null)
+            System.IO.StreamWriter file = new System.IO.StreamWriter("C:\\Users\\Alan\\Documents\\College Stuff\\Casual Games\\Repeat Assignment\\Repeat Project\\GameAssignment\\PlayerHistory\\userHistory.txt");
+            file.WriteLine(input);
+
+            file.Close();
+
+            if (input != null)
             {
                 Environment.Exit(0);
                 
