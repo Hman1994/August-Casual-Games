@@ -210,7 +210,7 @@ namespace Game1
                     pickUp.Clear();
                 
 
-                    // end game criteria
+                    // end game criteria / conditions
 
                     if (Collectables.Count == 0)
                         currentState = currentDisplay.Score;
