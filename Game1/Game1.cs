@@ -11,6 +11,8 @@ using Microsoft.Xna.Framework.Media;
 using Microsoft.Xna.Framework.Audio;
 using System.Diagnostics;
 
+// Alan Hardiman - S00146801 - Computing in Games Development - Year 3
+
 namespace Game1
 {
     public class Game1 : Game

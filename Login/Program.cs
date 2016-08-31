@@ -15,6 +15,14 @@ namespace Login
             Console.WriteLine("Please enter your username ");
             input = Console.ReadLine();
 
+            if(input != null)
+            {
+                Environment.Exit(0);
+                
+                
+             
+            }
+
         }
     }
 }
